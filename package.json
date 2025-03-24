@@ -1,0 +1,19 @@
+{
+  "name": "Game",
+  "version": "1.0.0",
+  "description": "A simple game",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "game2d",
+    "retro"
+  ],
+  "author": "Ivan Herrera Garcia",
+  "license": "MIT",
+  "files": [
+    "particles.js",
+    "particles.min.js"
+  ]
+}

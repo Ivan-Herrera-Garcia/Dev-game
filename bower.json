@@ -1,0 +1,20 @@
+{
+  "name": "Game",
+  "main": "Game",
+  "authors": [
+    "Ivan Herrera Garcia <herreraleon14@gmail.com>"
+  ],
+  "description": "A simple game",
+  "keywords": [
+    "game",
+    "game2d"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
